@@ -5,3 +5,4 @@ This change in demo.txt is done in master branch
 On line 5 from master
 On line 5 from first-branch
 Editing line 7 from master
+Editing line 7 from first-branch
